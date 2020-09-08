@@ -1,0 +1,38 @@
+
+h1 {
+    color: brown;
+}
+
+body{
+    background-color: darkorchid;
+}
+
+        .header{
+            background-color: cadetblue;
+            display: flex;
+            justify-content: space-around;
+        }
+
+        .links{
+            background-color: darkcyan;
+            display: flex;
+            align-items: center;
+        }
+
+        .img{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-evenly;
+            flex-direction: row-reverse;
+        }
+
+        .social{
+            background-color: cadetblue;
+            display: flex;
+            justify-content: flex-start;
+        }
+
+        .endItem{
+            background-color: darkcyan;
+            
+        }
